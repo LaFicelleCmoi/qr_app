@@ -42,7 +42,9 @@ cd qr_app
 python3 -m venv venv
 
 ## Activer l’environnement virtuel
+```bash
 source venv/bin/activate
+```
 
 ## Installer les dépendances
 pip install -r requirements.txt
