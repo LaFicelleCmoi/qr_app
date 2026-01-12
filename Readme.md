@@ -23,10 +23,10 @@ Application graphique simple et efficace permettant de générer des **QR Codes*
 
 ## 📂 Structure du projet
 qr_app/
-├── app.py # Interface graphique
-├── qr_generator.py # Logique de génération du  QRCode
-├── requirements.txt # Dépendances Python
-└── venv/ # Environnement virtuel (non versionné)
+- app.py # Interface graphique
+- qr_generator.py # Logique de génération du  QRCode
+- requirements.txt # Dépendances Python
+- venv/ # Environnement virtuel (non versionné)
 
 
 ## 🚀 Installation et exécution
