@@ -56,5 +56,5 @@ pip install -r requirements.txt
 
 ## Lancer l’application
 ```bash
-python app.py
+python3 app.py
 ```
